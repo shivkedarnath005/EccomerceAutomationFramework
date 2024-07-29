@@ -1,0 +1,319 @@
+[INFO ] 2024-07-29 01:05:58.170 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:05:58.313 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:06:04.896 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 01:06:04.963 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 01:06:09.111 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 01:06:09.115 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 01:06:09.116 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 01:09:46.580 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:09:46.607 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:09:51.583 [main] IndexPageTest - Test Case verifyLogo started
+[INFO ] 2024-07-29 01:09:51.656 [main] IndexPageTest - Test Case verifyLogo Ended
+[INFO ] 2024-07-29 01:09:51.923 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:09:51.949 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:09:56.503 [main] IndexPageTest - Test Case verifyStoreTitle started
+[INFO ] 2024-07-29 01:09:56.520 [main] IndexPageTest - Test Case verifyStoreTitle Ended
+[INFO ] 2024-07-29 01:20:57.706 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:20:57.744 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:21:03.166 [main] IndexPageTest - Test Case createAccountTest Started
+[INFO ] 2024-07-29 01:21:48.254 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:21:48.271 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:21:52.708 [main] IndexPageTest - Test Case verifyCreateAccountPageTest Started
+[INFO ] 2024-07-29 01:21:55.747 [main] IndexPageTest - Test Case verifyCreateAccountPageTest Ended
+[INFO ] 2024-07-29 01:25:29.653 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:25:29.685 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:25:35.191 [main] IndexPageTest - Test Case orderHistoryandDetailsTest Started
+[INFO ] 2024-07-29 01:25:58.545 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:25:58.565 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:26:04.166 [main] IndexPageTest - Test Case wishListTest Started
+[INFO ] 2024-07-29 01:31:47.935 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:31:47.968 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:31:53.000 [main] IndexPageTest - Test Case orderHistoryandDetailsTest Started
+[INFO ] 2024-07-29 01:34:17.637 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:34:17.670 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:34:22.264 [main] IndexPageTest - Test Case orderHistoryandDetailsTest Started
+[INFO ] 2024-07-29 01:37:16.866 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:37:16.886 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:37:21.505 [main] IndexPageTest - Test Case addToCartTest Started
+[INFO ] 2024-07-29 01:56:03.555 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 01:56:03.586 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 01:56:11.456 [main] IndexPageTest - Test Case addToCartTest Started
+[INFO ] 2024-07-29 02:20:46.508 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:20:46.637 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:20:53.131 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 02:20:53.189 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 02:20:57.028 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 02:20:57.030 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 02:20:57.030 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 02:23:22.401 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:23:22.438 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:23:28.119 [main] IndexPageTest - Test Case verifyLogo started
+[INFO ] 2024-07-29 02:23:28.186 [main] IndexPageTest - Test Case verifyLogo Ended
+[INFO ] 2024-07-29 02:23:28.400 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:23:28.428 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:23:32.973 [main] IndexPageTest - Test Case verifyStoreTitle started
+[INFO ] 2024-07-29 02:23:32.985 [main] IndexPageTest - Test Case verifyStoreTitle Ended
+[INFO ] 2024-07-29 02:24:31.097 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:24:31.154 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:24:36.247 [main] IndexPageTest - Test Case orderHistoryandDetailsTest Started
+[INFO ] 2024-07-29 02:26:46.503 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:26:46.535 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:26:51.923 [main] IndexPageTest - Test Case addToCartTest Started
+[INFO ] 2024-07-29 02:38:18.383 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 02:38:18.407 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 02:38:23.403 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 02:38:23.425 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 02:38:27.283 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 02:38:27.285 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 02:38:27.286 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 09:42:22.663 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:42:23.096 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:42:28.812 [main] IndexPageTest - Test Case verifyLogo started
+[INFO ] 2024-07-29 09:42:28.890 [main] IndexPageTest - Test Case verifyLogo Ended
+[INFO ] 2024-07-29 09:42:29.116 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:42:29.149 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:42:33.524 [main] IndexPageTest - Test Case verifyStoreTitle started
+[INFO ] 2024-07-29 09:42:33.537 [main] IndexPageTest - Test Case verifyStoreTitle Ended
+[INFO ] 2024-07-29 09:42:34.812 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:42:34.825 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:42:39.080 [main] IndexPageTest - Test Case orderHistoryandDetailsTest Started
+[INFO ] 2024-07-29 09:42:50.417 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:42:50.434 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:42:55.096 [main] IndexPageTest - Test Case addToCartTest Started
+[INFO ] 2024-07-29 09:57:09.532 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:57:09.570 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:57:16.363 [main] IndexPageTest - Test Case verifyCreateAccountPageTest Started
+[INFO ] 2024-07-29 09:57:19.510 [main] IndexPageTest - Test Case verifyCreateAccountPageTest Ended
+[INFO ] 2024-07-29 09:57:19.888 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:57:19.902 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:57:24.557 [main] IndexPageTest - Test Case addToCartTest Started
+[INFO ] 2024-07-29 09:58:40.610 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:58:40.642 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:58:45.601 [main] IndexPageTest - Test Case endToEndTest Started
+[INFO ] 2024-07-29 09:59:30.311 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:59:30.322 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:59:35.491 [main] IndexPageTest - Test Case createAccountTest Started
+[INFO ] 2024-07-29 09:59:49.625 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 09:59:49.651 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 09:59:53.871 [main] IndexPageTest - Test Case verifyOrderTotalPrice Started
+[INFO ] 2024-07-29 10:21:02.895 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:21:02.924 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:21:07.911 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:21:07.925 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:21:11.845 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:21:11.849 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:21:11.850 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:21:37.125 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:21:37.156 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:21:41.726 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:21:41.738 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:21:45.236 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:21:45.238 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:21:45.238 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:25:49.011 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:25:49.037 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:25:53.984 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:25:53.998 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:25:57.738 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:25:57.740 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:25:57.740 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:25:58.966 [main] WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 128)
+[INFO ] 2024-07-29 10:25:58.981 [main] WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\dell\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+[INFO ] 2024-07-29 10:26:06.030 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:26:06.031 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:26:08.215 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:26:09.611 [main] WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/selenium to seek IEDriverServer
+[INFO ] 2024-07-29 10:26:10.131 [main] Downloader - Downloading https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.14.0/IEDriverServer_x64_4.14.0.zip
+[INFO ] 2024-07-29 10:26:11.997 [main] Downloader - Extracting driver from compressed file iedriverserver_x64_4.14.0.zip
+[INFO ] 2024-07-29 10:26:12.057 [main] WebDriverManager - Exporting webdriver.ie.driver as C:\Users\dell\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe
+[INFO ] 2024-07-29 10:27:49.961 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:27:50.013 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:27:55.444 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:27:55.635 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:28:00.642 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:28:00.649 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:28:00.650 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:28:01.036 [main] WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 128)
+[INFO ] 2024-07-29 10:28:01.057 [main] WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\dell\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+[INFO ] 2024-07-29 10:28:08.246 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:28:08.337 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:28:10.518 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:28:12.098 [main] WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/selenium to seek IEDriverServer
+[INFO ] 2024-07-29 10:28:12.457 [main] WebDriverManager - Exporting webdriver.ie.driver as C:\Users\dell\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe
+[INFO ] 2024-07-29 10:30:29.958 [main] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:30:29.986 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:30:34.756 [main] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:30:34.777 [main] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:30:36.645 [main] IndexPageTest - Enter username and password
+[INFO ] 2024-07-29 10:30:38.385 [main] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:30:38.394 [main] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:30:38.395 [main] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:32:55.140 [TestNG-tests-3] WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/selenium to seek IEDriverServer
+[INFO ] 2024-07-29 10:32:55.267 [TestNG-tests-2] WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 128)
+[INFO ] 2024-07-29 10:32:55.267 [TestNG-tests-1] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:32:55.310 [TestNG-tests-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:32:55.310 [TestNG-tests-2] WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\dell\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+[INFO ] 2024-07-29 10:32:55.911 [TestNG-tests-3] WebDriverManager - Exporting webdriver.ie.driver as C:\Users\dell\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe
+[INFO ] 2024-07-29 10:32:58.074 [TestNG-tests-1] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:32:58.142 [TestNG-tests-1] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:33:05.952 [TestNG-tests-1] IndexPageTest - Enter username and password
+[INFO ] 2024-07-29 10:33:09.188 [TestNG-tests-1] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:33:09.216 [TestNG-tests-1] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:33:09.217 [TestNG-tests-1] IndexPageTest - Test Case loginTest Ended
+[INFO ] 2024-07-29 10:33:09.924 [TestNG-tests-2] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:33:09.925 [TestNG-tests-2] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:33:11.381 [TestNG-tests-2] IndexPageTest - Enter username and password
+[INFO ] 2024-07-29 10:33:12.484 [TestNG-tests-2] IndexPageTest - Verifying whether user is able to login
+[DEBUG] 2024-07-29 10:35:10.589 [TestNG-tests-3] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 10:35:10.589 [TestNG-tests-2] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 10:35:10.589 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-07-29 10:35:10.594 [TestNG-tests-3] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-07-29 10:35:10.594 [TestNG-tests-2] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-07-29 10:35:10.594 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-07-29 10:35:10.596 [TestNG-tests-3] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-07-29 10:35:10.596 [TestNG-tests-2] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-07-29 10:35:10.596 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-07-29 10:35:10.597 [TestNG-tests-3] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 10:35:10.597 [TestNG-tests-2] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 10:35:10.597 [TestNG-tests-1] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-07-29 10:35:11.078 [TestNG-tests-2] WebDriverManager - Using WebDriverManager 5.9.1
+[DEBUG] 2024-07-29 10:35:11.094 [TestNG-tests-3] WebDriverManager - Using WebDriverManager 5.9.1
+[DEBUG] 2024-07-29 10:35:11.097 [TestNG-tests-1] WebDriverManager - Using WebDriverManager 5.9.1
+[DEBUG] 2024-07-29 10:35:11.348 [TestNG-tests-3] WebDriverManager - The driver version for IEXPLORER is unknown ... trying with latest
+[INFO ] 2024-07-29 10:35:11.357 [TestNG-tests-3] WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/selenium to seek IEDriverServer
+[DEBUG] 2024-07-29 10:35:11.394 [TestNG-tests-3] InternalHttpClient - ex-0000000001 preparing request execution
+[DEBUG] 2024-07-29 10:35:11.419 [TestNG-tests-3] ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+[DEBUG] 2024-07-29 10:35:11.422 [TestNG-tests-3] ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+[DEBUG] 2024-07-29 10:35:11.423 [TestNG-tests-3] ConnectExec - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+[DEBUG] 2024-07-29 10:35:11.423 [TestNG-tests-3] InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+[DEBUG] 2024-07-29 10:35:11.426 [TestNG-tests-3] PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+[DEBUG] 2024-07-29 10:35:11.432 [TestNG-tests-3] PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+[DEBUG] 2024-07-29 10:35:11.454 [TestNG-tests-3] PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+[DEBUG] 2024-07-29 10:35:11.454 [TestNG-tests-3] InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+[DEBUG] 2024-07-29 10:35:11.454 [TestNG-tests-3] ConnectExec - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+[DEBUG] 2024-07-29 10:35:11.457 [TestNG-tests-3] InternalHttpClient - ep-0000000001 connecting endpoint (null)
+[DEBUG] 2024-07-29 10:35:11.464 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+[DEBUG] 2024-07-29 10:35:11.465 [TestNG-tests-3] DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+[DEBUG] 2024-07-29 10:35:11.474 [TestNG-tests-3] DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.109.133]
+[DEBUG] 2024-07-29 10:35:11.480 [TestNG-tests-3] DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.110.133:443 (30 SECONDS)
+[DEBUG] 2024-07-29 10:35:11.481 [TestNG-tests-3] SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/185.199.110.133:443 with timeout 30 SECONDS
+[DEBUG] 2024-07-29 10:35:11.541 [TestNG-tests-2] ResolutionCache - Resolution firefox=128 in cache (valid until 11:25:58 29/07/2024 IST)
+[DEBUG] 2024-07-29 10:35:11.541 [TestNG-tests-1] ResolutionCache - Resolution chrome=126 in cache (valid until 10:42:22 29/07/2024 IST)
+[DEBUG] 2024-07-29 10:35:11.543 [TestNG-tests-1] ResolutionCache - Resolution chrome126=126.0.6478.182 in cache (valid until 16:41:06 29/07/2024 IST)
+[DEBUG] 2024-07-29 10:35:11.543 [TestNG-tests-2] ResolutionCache - Resolution firefox128=0.34.0 in cache (valid until 10:25:58 30/07/2024 IST)
+[INFO ] 2024-07-29 10:35:11.544 [TestNG-tests-1] WebDriverManager - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+[INFO ] 2024-07-29 10:35:11.544 [TestNG-tests-2] WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 128)
+[DEBUG] 2024-07-29 10:35:11.578 [TestNG-tests-2] WebDriverManager - Driver geckodriver 0.34.0 found in cache
+[DEBUG] 2024-07-29 10:35:11.578 [TestNG-tests-1] WebDriverManager - Driver chromedriver 126.0.6478.182 found in cache
+[INFO ] 2024-07-29 10:35:11.580 [TestNG-tests-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\dell\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+[INFO ] 2024-07-29 10:35:11.581 [TestNG-tests-2] WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\dell\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+[DEBUG] 2024-07-29 10:35:11.584 [TestNG-tests-3] SSLConnectionSocketFactory - Enabled protocols: [TLSv1.3, TLSv1.2]
+[DEBUG] 2024-07-29 10:35:11.586 [TestNG-tests-3] SSLConnectionSocketFactory - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+[DEBUG] 2024-07-29 10:35:11.588 [TestNG-tests-3] SSLConnectionSocketFactory - Starting handshake (null)
+[DEBUG] 2024-07-29 10:35:11.751 [TestNG-tests-3] SSLConnectionSocketFactory - Secure session established
+[DEBUG] 2024-07-29 10:35:11.751 [TestNG-tests-3] SSLConnectionSocketFactory -  negotiated protocol: TLSv1.3
+[DEBUG] 2024-07-29 10:35:11.751 [TestNG-tests-3] SSLConnectionSocketFactory -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+[DEBUG] 2024-07-29 10:35:11.756 [TestNG-tests-3] SSLConnectionSocketFactory -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+[DEBUG] 2024-07-29 10:35:11.756 [TestNG-tests-3] SSLConnectionSocketFactory -  peer alternative names: [*.github.io, github.io, githubusercontent.com, www.github.com, *.github.com, *.githubusercontent.com, github.com]
+[DEBUG] 2024-07-29 10:35:11.757 [TestNG-tests-3] SSLConnectionSocketFactory -  issuer principal: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+[DEBUG] 2024-07-29 10:35:11.759 [TestNG-tests-3] DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+[DEBUG] 2024-07-29 10:35:11.759 [TestNG-tests-3] DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.110.133:443 as http-outgoing-0
+[DEBUG] 2024-07-29 10:35:11.759 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+[DEBUG] 2024-07-29 10:35:11.760 [TestNG-tests-3] InternalHttpClient - ep-0000000001 endpoint connected
+[DEBUG] 2024-07-29 10:35:11.761 [TestNG-tests-3] MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/docs/mirror/selenium HTTP/1.1
+[DEBUG] 2024-07-29 10:35:11.762 [TestNG-tests-3] RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+[DEBUG] 2024-07-29 10:35:11.780 [TestNG-tests-3] InternalHttpClient - ep-0000000001 start execution ex-0000000001
+[DEBUG] 2024-07-29 10:35:11.780 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+[DEBUG] 2024-07-29 10:35:11.781 [TestNG-tests-3] headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/docs/mirror/selenium HTTP/1.1
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] headers - http-outgoing-0 >> cache-control: max-age=0
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] headers - http-outgoing-0 >> connection: keep-alive
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/docs/mirror/selenium HTTP/1.1[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.782 [TestNG-tests-3] wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.783 [TestNG-tests-3] wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.783 [TestNG-tests-3] wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.783 [TestNG-tests-3] wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.783 [TestNG-tests-3] wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.783 [TestNG-tests-3] wire - http-outgoing-0 >> "[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.813 [TestNG-tests-3] wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.813 [TestNG-tests-3] wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "Content-Length: 1631[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "ETag: W/"e0d043eeb0cf4a6d8668c2329efc862ea80bf9eea85334baa341b30874b1967a"[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.814 [TestNG-tests-3] wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "X-GitHub-Request-Id: EBFC:268EF7:12106D:1923E2:66A720E9[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "Date: Mon, 29 Jul 2024 05:05:11 GMT[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.815 [TestNG-tests-3] wire - http-outgoing-0 << "X-Served-By: cache-del21731-DEL[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "X-Cache-Hits: 0[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "X-Timer: S1722229512.727241,VS0,VE1[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "X-Fastly-Request-ID: 1b967d7691f838fad4ada40786b1ae2514de2922[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "Expires: Mon, 29 Jul 2024 05:10:11 GMT[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.816 [TestNG-tests-3] wire - http-outgoing-0 << "Source-Age: 136[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.817 [TestNG-tests-3] wire - http-outgoing-0 << "[\r][\n]"
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << HTTP/1.1 200 OK
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Connection: keep-alive
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Content-Length: 1631
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Cache-Control: max-age=300
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << ETag: W/"e0d043eeb0cf4a6d8668c2329efc862ea80bf9eea85334baa341b30874b1967a"
+[DEBUG] 2024-07-29 10:35:11.821 [TestNG-tests-3] headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Frame-Options: deny
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-GitHub-Request-Id: EBFC:268EF7:12106D:1923E2:66A720E9
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << Content-Encoding: gzip
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << Accept-Ranges: bytes
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << Date: Mon, 29 Jul 2024 05:05:11 GMT
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << Via: 1.1 varnish
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Served-By: cache-del21731-DEL
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Cache: HIT
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Cache-Hits: 0
+[DEBUG] 2024-07-29 10:35:11.822 [TestNG-tests-3] headers - http-outgoing-0 << X-Timer: S1722229512.727241,VS0,VE1
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << X-Fastly-Request-ID: 1b967d7691f838fad4ada40786b1ae2514de2922
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << Expires: Mon, 29 Jul 2024 05:10:11 GMT
+[DEBUG] 2024-07-29 10:35:11.823 [TestNG-tests-3] headers - http-outgoing-0 << Source-Age: 136
+[DEBUG] 2024-07-29 10:35:11.828 [TestNG-tests-3] MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+[DEBUG] 2024-07-29 10:35:11.834 [TestNG-tests-3] wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffcd][0xffffff9d]KO[0x1b]I[0x14][0xffffff85][0xfffffff7][0xfffffffc][\n]"
+[DEBUG] 2024-07-29 10:35:11.834 [TestNG-tests-3] wire - http-outgoing-0 << "[0xffffff8b]u[0xffffff8c][0xffffffe9][0xffffffb6]1L[0xffffffd6]3R[0xffffffb2][0x1c]e1[0xffffff8b](B&X[0xffffffe0][0x8][0xffffffec][0xffffffc8]n[0xffffff92]yh[0xfffffffe][0xfffffffb][0xffffffd8][0xffffffee][0x17]]uoyT,[0xffffffce][0xffffffb7][0xffffff88][0x2][0xffffffe9][0x18]>N[0xffffffd5]9[0xffffffb7][0xffffffaa][0xffffffe9][0xffffffba][0xfffffffe]|6[0x1a][0xfffffffd][0xffffffb3][0xffffffff]3[0x1a][0xffffff9d]W[0xffffff8b][0xffffff87][0xffffffdb][0xfffffff5][0xffffffe2]yy[0xfffffffe]~t[0xffffffbe]^=<VO[0x7f][0xffffff9d][0xffffffbf][0xffffffab]/-v[0xffffffbb]e[0xffffffb5][0xffffffdb]_[0xfffffff8]|[0xfffffffc][0xffffffbc]}[0xffffffc9][0xfffffff1][0xffffffda][0xffffffdd]v[0xfffffff3]s[0xffffffb7][0xffffffdc][0xffffffde][0xffffffde]o~[0xffffffae][0xffffff9f]6[0xffffff8b][0xfffffffb][0xffffffdb][0xffffff97][0xffffffed][0xffffffd3][0xffffffe1]K<V[0xffffffd5][0xfffffff7][0xffffffdd][0xfffffffb][0xffffffc9][0xffffffe4]aU=[0xffffffbe][0xffffffdc]]|[0xffffffdd]<O>-[0xffffff9f][0xffffff96][0xffffffeb][0xffffffd5][0xffffffcb][0xfffffff3][0xffffff87][0xffffffdf]'[0xffffffbb][0xffffffe6][0xffffffc3][0xffffffc9]v[0xffffffff][0xffffffc1]b[0xffffffb7][0xffffffdc]M[0xffffffda][0xffffffd7]O[0xffffff9a][0xffffffef][0xffffffdd][0xfffffffd][0xffffff97][0xfffffff1][0xffffffb7][0xffffffc5][0xffffff8f][0xffffffc5]xvQN/./[0xfffffffe]^}?o[0xffffffbe][0xfffffff7][0xffffffbf][0xffffffef][0x14]0[0xfffffffb][0xffffffaf][0xfffffffe]c[0xffffffb9]mq[0xffffffbe]-[0xffffffb6]$[0xffffff9c][0xffffffd7][0xffffffea][0x1c][0xffffffff][0xfffffffe]r[0xffffffd6][0xffffff80][0x19]c[0xffffffdc]}[0xffffff8d][0xfffffffa][0xffffffc5][0xffffff92][0xffffffb1][0xe][0x18][0xfffffffa][0xffffffcf][0xffffffef]7[0xffffffd5]zY[0xffffffa9]F[0xfffffffd][0x14][0xffffffd6][0xffffffae][0xffffffda]n[0xffffffd6][0xf][0x7]![0xffffffef]q[0xffffff88]J[0xffffffb7][0xffffffb8]PZ[0xffffffd7][0xfffffffc]O[0xffffffac]l[0xfffffff7][0xffffff94][0x0][0xfffffff7][0xffffff94][0xffffffb6]{J[0xfffffff1],[0xffffffb0][0xffffffb0][0x2][0xfffffff7][0xffffffa0][0x10][[0xfffffff7][0xffffffa0][0xffffffa0][0xfffffffa]iZ[0xffffff8a][0xffffffdd][0xffffff93][0xffffffc0][0xffffffca]vO[0x1]pOa[0xffffffbb][0xffffffa7][0x10][0xffffffcf][0x2][0xb]+p[0xf][\n]"
+[DEBUG] 2024-07-29 10:35:11.835 [TestNG-tests-3] wire - http-outgoing-0 << "[0xffffffb1]u[0xf][\n]"
+[DEBUG] 2024-07-29 10:35:11.835 [TestNG-tests-3] wire - http-outgoing-0 << "[0xffffffaa][0xffffff9f][0xffffffa6][0xffffff85][0xffffffd8]=[0x9][0xffffffac]l[0xfffffff7]\[0x2][0xffffffdc]si[0xffffffbb][0xffffffe7]R<[0xb],[0xffffffac][0xffffffc0]=([0xffffffc4][0xffffffd6]=([0xffffffa8]~[0xffffff9a]^[0xffffff8a][0xffffffdd][0xffffff93][0xffffffc0][0xffffffca]uO[0xfffffff1][0xffffff8b][0xffffffde]=[0x7][0x6][0xffffffc3]=[0xffffff87][0x7f]V[0xffffffce][0x2][0x13]k[0xffffffe8][0x1e][0x16]b[0xffffffe3][0x1e]*T[0xffffffc1][0xffffff81][0xffffffea][0xffffffbc]s[0xffffffd4]Jh[0xffffffe9][0x14][0x16]R[0xffffffad][0xffffff82][0xffffffa9]V[0xffffff91][0x1f][0xffffff80]7[0xffffff80][0x0][0xffffffbc][0xffffffb1][0x3][0xfffffff0]F<[0xb]\,[0xffffffad][0xffffff95]-[0xffffffac] [0xffffff97][0xffffff89][0xffffffca]E[0xffffff88] [0x15][0xffffffdb][0xffffff94]F[0xffffffe9][0xffffffd6]C[0xffffff81][0xffffff94][0xffffffea]S[0xffffffe7]F\:[0x12]XH[0xffffffb5][0xffffffb4][0xffffffa5]#[0xffffff81][0xffffff95]]:[0xffffffae][0x1][0xffffffa5][0xffffffe3][0xffffffda][0xffffffce][0xffffffe8]k[0xfffffff1],[0xffffffb0][0xffffffb0][0xffffff82][0x0]D![0xffffffb6]Y[0xffffff83][0xffffff82][0xffffffea][0xffffffa7][0xffffffe9][0xffffffb5]8k[0x12]X[0xffffffd9][0xffffffee][0xffffff99][0x3][0xffffffdc]3[0xffffffb7][0xffffffdd]3[0x17][0xffffffcf][0x2][0x17]K[[0x8]-[0xffffffac][0xffffffc0][0xffffffd4]D[0xffffffe5]"D[0xffffff90][0xffffff8a]m[0xffffffee][0xffffffa0]t[0xffffffeb][0xffffffa1]@J[0xfffffff5][0xffffffa9]3[0x17][0xffffff87]a[0x2][0xb][0xffffffa9][0xffffff96]v[0xffffffe1][0xffffff95][0xffffffc0][0xffffffca].[0x1d]W[0xffffff80][0xffffffd2]qeg[0xfffffff4][0xffffff95]x[0x16]XXA[0x0][0xffffffa2][0x10][0xffffffdb][0xffffffac]AA[0xfffffff5][0xffffffd3][0xfffffff4]J[0xffffff9c]5[0x9][0xffffffac]l[0xfffffff7][0xffffffcc][0x0][0xffffffee][0xffffffd9]3L>[0xfffffffe][0xfffffff6][0xffffffeb]v[0xffffffb5][0xffffffff][0xffffff81]>[0x1d][0x7f][0xffffffac][0xffffffdb]?V[0xffffffeb]iy[_[0xffffff93]N[0x5][0xffffff83][0xffffffed][0xffffffcf][0xfffffff9][0xffffff8c]Bfd[0xe][0x16]K[0xffffffbb]|[0xffffffb0][0xffffffb0][0xffffff82]($*[0x17]![0xffffff82]Tl[0xffffffd3][0x1a][0xffffffa5][[0xf][0x5]R[0xffffffaa][0xffffffcf][0xffffffea][0xffffff99][0xffffffb8][0xffffff84]$[0xffffffb0][0xffffff90]ji[0xffffff97][0xffffffab][0x9][0xffffffac][0xffffffec][0xffffff82][0xb]x[0xffffffb6][0xffffffb8][0xffffffb0][0xffffff9f]-.[0xffffffc4][0xffffffcf][0xffffffc8][0xfffffffa]XZ+[0xffffff9f]~[0xffffffe4][0x19][0xffffffa9]\[0xffffff84][0x8]R[0xffffffb1]Mi[0xffffff94]n[0xffffffbd][0xffffffc1][0xffffffc5]Oe[0xffffffa7][0xffffffb0][0xffffffb2]s[0x7][0xfffffff0]Tva?[0xffffff95]][0xffffff88][0xffffff9f].[0xfffffff6][0xffffffb1][0xffffffb4][0xffffff8e]q[0xffffffb1]J&[0xffffffd6][0xffffff94][0xffffff89]5[0xffffffc3]a[0x5][0xffffffc9]L[0xffffff9c][0xfffffffe][0x11]"[0xffffffcf][\n]"
+[DEBUG] 2024-07-29 10:35:11.836 [TestNG-tests-3] wire - http-outgoing-0 << "[0x11]"[0xffffffcf][0x16][0x11]"[0xffffffcf]"[0x11]"[0xffffffc8].[0xffffffed]*[0x1]e[0xffffff90][0x1e][\n]"
+[DEBUG] 2024-07-29 10:35:11.836 [TestNG-tests-3] wire - http-outgoing-0 << "d[0xffffff89]~[0xffffff8d] >[0x12][0xffffff93][0xffffffc2]B[0xffffffaa][0xffffffa5][0xffffffdd]`&[0xffffffb0][0xffffffb2][0x17]z[0xffffff80][0x3]D[0x7][0x6][0xfffffff7][0xffffff8e][0xffffffae][0xfffffff8]4[0xffffff8c][0xffffffc5][0xffffffd6][0xffffffdc][0xffffffd1]%[0xffffff90][0x19]K[0x18]"VP6P[0xffffff88]mB[0xffffffa3][0xffffffa0]zs[0xffffff8b][0xffffff8f]][0xffffffa5][0xffffffb0][0xffffffb2]3[0x7]p[0xffffffec][0xffffffea][0xffffffc0][0xffffffe0]f[0xffffff8e][0xfffffff8][0xc][0xffffff91][0xffffffc5][0xffffffd6]d[0xe][0xffffff81][0xffffffcc][0xffffffc8][0x1c]"V[0xffffff90]9([0xffffffc4]6sPP[0xffffffbd][0xffffffb9][0xffffffc5][0xffffff87][0xffffffd5]RX[0xffffffb9][0xffffff99][0x3]8[0xffffffab]f[0x1f]U[0x13][0x1f][0xffffffd7][0xfffffff1][0xffffffa0][0xffffffa4][0xffffffbb][0xffffff95][0xffffffd3][0xffffffa7][0xffffffe7][0xffffff80][0xffffffaa][0xffffff85][0xffffff80][0x1c][0x5][0xffffff9b][0xffffffb4]!i[0xffffffd6]!qT[0xffffffea]rF|[0xffffffae][0xffffffcf][0xffffff87][0x2]*%[0xffffffdd][0xf][0xfffffffb]P[0xffffffb9]U[0x2]p[0xffffffa0][0xffffffef][0xffffffc6]_[0xffffff97][0xffffff8a][0xffffff8f][0xffffffe7]$[0xffffffc9][0xffffffa4]>6[0xffffffc8][0xffffffea][0xfffffff5]2O[0xffffffb1][0xffffff96]K[0xffffffae]W\[0xfffffff4][0x1]bYPH[0xffffffa5][0xffffffa4][0xffffffbf]<8}B[0x14]8[0xffffff94]! nXC@[0xffffffce][0x10]7[0xffffff8b]%[0xffffffd2][0xffffffa0]vH[0xffffff9c]a[0xffffffec][0xffffff90][0xffffff80][0x3]'[0xfffffffd]E[0xffffff9e]}|U|[0x4][0xffffffd9][0xffffff87][0x2]*%][0xffffffe5][0xfffffffa]P@[0xffffffa5]J[0xffffffa2]R[0xffffff9c]@x[0x5]5%*5[0xffffffcd][0xffffffde]9[0x1][0xffffffce][0xffffffb3]_[0xfffffffb][0xfffffffb][0x13][0xfffffff1][0xffffffd1]l[0xffffff83][0xffffffac][0xffffffde][0x7][0x0][0xffffffb8][0xffffffe2][0xffffffd5]-[0x10]j[0xffffffb8]6#[0x1]6%[0x1e][0xffffff89]$[0xffffffad][0x10]6[0xffffff92]4[0xffffff8a][0xffffffed]N[0x4][0xffffffe2][0xfffffffe][0x8]>[0x14]P)[0xffffffe9]B[0xffffffc8][0xffffff87][0x2]*%][0x8][0xfffffff9]P[0xffffffb9][0xffffffe5][0x1d][0xffffffd0]pc[0xffffffee][0xffffff97]w[0xfffffff1][0xfffffff1]y[0xffffff83][0xffffffac].[0xffffffef][0x0][0xffffffae][0xffffffb8][0xffffffbc][0x3][0xffffffa1][0xffffff86][0xffffffe5][0xffffff9d][0x4][0xffffffd8][0x14].[0x12]R[0xffffffe7]gq/[0xb][0x1f]*7d[0x0][0xffffffad][0x19][0xffffffae][0xfffffffc][0xffffff90][0x11]w[0x19]0[0xffffffc8][0xffffffea][0xffffff90][0x1]p[0xffffffc5]![0x3][0xffffff85][0xffffff92].[0x15]N[0xffffffb7][0xffffffd7][0x0][0xffffffaa][0x16][0x2]r[0x14]l[0xffffffa2][0xffffff99][0xffffffa4]Y[0xffffff87][0x4]TI[0xffffffba][0xfffffff3][0xffffffb2][0xffffff91][0xffffffa4]w[0xffffffc5][0xffffffed][0xffffffee]([0xffffffe2][0xffffff9e]->[0x14]P)[0xffffffe9]f[0xffffffd0][0xffffff87][0x2]*%[0xffffffdd][0xc][0xfffffffa]P@[0xffffffa5][0xffffffa4]w[0xffffffc5]}[0xffffffa8][0xffffffdc][0x15]-[0xffffffa0]][0xffffff92][0xffffffdd]`G[0xffffffdc][0xffffffc1][0xffffffe3]t[0xffffffef][0x1a][0x12]`S[0xffffffb0]HH[0xffffffdd][0xffffffec][0x14]w[0xffffff88][0xfffffff1][0xffffffa1]r-[0x3]hx2[0xfffffff5]7[0xffffff81][0xffffffe2][0xe][0x14][0x6]Y[0xffffffbd][0x9][0x4]p[0xffffffc5]![0x3][0xffffff84][0x1a][0xffffff86][0xc][0x9][0xffffffb0][0x9][0x19][0x12]R[0xffffffe7]gq[0xffffff83][0x13][0x1f]*7d[0x0][0xffffffdd]MJ?d[0xffffffd4]o[0xffffff9f][0xffffffe8][0xffffff85][0xc][0xffffff80]+[0xe][0x19] T[0xfffffff0]6i [0xffffffc0][0xfffffff6]M[0xffffffd2][0xffffff88]H[0xffffffd2][0xffffff9d][0xffffff9b][0xffffff8d]$[0xffffffdd]"9[0xffffffef][0x16]*~[0x1f]9[0x17][\n]"
+[DEBUG] 2024-07-29 10:35:11.836 [TestNG-tests-3] wire - http-outgoing-0 << "[0xffffffa8][0xffffff94][0xfffffff4][0x6][0xffffff85][0xf][0x5]TJz[0xffffff83][0xffffffc2][0xffffff87][0xffffffca]>`[0xffffffae]/[0xffffffef]Ns[0x6][0xfffffff1]y_[0x7]J[0xffffffdb][0xffffff9a][0xffffffe6][0xfffffff4][0xffffffd9]m[0xffffff9e]j! G[0xffffffc1][0xffffffc7][0xffffffea][0xfffffff9]i[0xffffffbc]}Y[0xffffffaf][0xffffffeb]3[0xffffffd3][0xffffffe2][0xffffff93][0xffffffdc])2m/[0xffffff9d][0x14][0xffffff99]4[0xe][0xffffff93]d[0xffffffd2][0xfffffffb][0xffffffa3]I[0xffffffb2][0x19][0xffffff86][0xffffffac]m[0xffffffae][0x0]J[0xffffff8d][0xe][0xffffff89][0xffffff93][0x13][0x1d][0xffffff92][0xffffffb6][0xf][0xffffff9e][0xffffff89][0xffffffa4][0xffffffed]{g"i[0xfffffffb][0xffffffdc][0xffffffd9][0xfffffffd]0@[0xffffffd9]>[0xffffff80][0x2]*[0xffffffc5][0xffffffa9]5[0x3]([0xffffffa0]R[0xffffff9c][0xffffffda]7[0xffffff80][0x2]*[0xffffffc5][0xffffffa9][0xffffffc5][0x3]([0xffffffa0]"
+[DEBUG] 2024-07-29 10:35:11.845 [TestNG-tests-3] wire - http-outgoing-0 << "R[0xffffff9c][0xffffffb5][0xffffffc1][0x0]*w{[0x9]h_[0xffffff96][0xffffffe8]^&[0xffffffee])[0xffffffe5][0xfffffff6].[0x3]p[0xffffffc5]{_([0xffffff94][0xffffffb4]2[0xffffff9c]n[0xffffffa6][0x6]T-[0x4][0xffffffe4](8[0xffffffdc]([0xffffff89][[0xffffffab]Y][0xffffffe8]H[0xffffffa3][0xffffffd9][0xffffffe5]3I[0xffffffa7][0x1][0xffffffd4][0x1b][0xffffff8a][0xffffffc6]x[0xfffffffb]u<[0x5]T[0xffffff8e]#[0xffffff87][0x1d][0xffffff86][0xfffffffb]K[0xffffffd2][0x15][0xffffff84]K[0x17][0x5][0x10][0xffffff8f]42[0xfffffffa][0xfffffff1][0xffffffba]x[0x16][0x7][0xffffff8c][0xffffffbd][0xffffffe5]k8[0xffffff94][0xffffff80][0xffffffaf]}[0x6][0xffffffd4].[0xffffffc6]{c[0x16][0xffffff94][0xffffff90],([0xffffffdd],[0xffffff90][0xffffffee][0xffffffbb]\:+[0xb]`[0xffffffa4]f[0x16]H[0xffffffb7][0xffffffd6]1[0xffffffe3]0[0xb]`[0x2][0xffffff86]f[0xffffff83]i[0x17][0xffffffe3][0xffffffbd]1[0xb][\n]"
+[DEBUG] 2024-07-29 10:35:11.845 [TestNG-tests-3] wire - http-outgoing-0 << "H[0x16][0x14]n[0x16][0xffffffa8]W[0xffffffd4]6[0xffffff9d][0xffffff95][0x5]0R3[0xb][0xffffffa4]7$c[0xffffffc6]a[0x16][0xffffffc0][0x4][0xc][0xffffffcd][0x6][0xffffffd3].[0xffffffc6]{K[0x16][0xffffffdc]-[0xffffffab][0xfffffffd]H[0x10][0xffffffd2][0xffffffa0]&q[0xfffffff2][0xffffffa0][0xffffffbe][0xffffffa8][0xffffff9e]'[0xe]b[0x1c][\n]"
+[DEBUG] 2024-07-29 10:35:11.845 [TestNG-tests-3] wire - http-outgoing-0 << "L[0xffffffdc]8[0x19][0x1a]N[0xfffffff1][0xfffffffc][0xe]9_[0xffffffa5][0x3]S[0xffffffc8][0xffffff81][0x5][\r][\r][0xffffffb3]L[0xffffff88][0xffffffd8][0xffffffaa][0xffffffd7]$'[0xffffffa7][0xffffff8c]|[0xffffffab][0x14]r[0xffffff86]SF[0xffffffbe][0xffffffd5][0xc][0x1][0xffffffe3])3u[0xffffffa6][0xffffffcc][0xffffffd9][0xffffff97][0xffffffb3][0xffffffff][0x0][0x1f][0xffffff8c]`[0xffffffa4][0xffffffe9][0xffffffa5][0x0][0x0]"
+[DEBUG] 2024-07-29 10:35:11.847 [TestNG-tests-3] InternalHttpClient - ep-0000000001 releasing valid endpoint
+[DEBUG] 2024-07-29 10:35:11.847 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 releasing endpoint
+[DEBUG] 2024-07-29 10:35:11.848 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+[DEBUG] 2024-07-29 10:35:11.848 [TestNG-tests-3] PoolingHttpClientConnectionManager - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+[DEBUG] 2024-07-29 10:35:11.873 [TestNG-tests-3] WebDriverManager - Driver to be downloaded IEDriverServer 4.14.0
+[INFO ] 2024-07-29 10:35:11.894 [TestNG-tests-3] WebDriverManager - Exporting webdriver.ie.driver as C:\Users\dell\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe
+[INFO ] 2024-07-29 10:35:15.341 [TestNG-tests-1] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:35:15.677 [TestNG-tests-1] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:35:23.320 [TestNG-tests-1] IndexPageTest - Enter username and password
+[INFO ] 2024-07-29 10:35:23.615 [TestNG-tests-2] IndexPageTest - Test Case loginTest Started
+[INFO ] 2024-07-29 10:35:23.616 [TestNG-tests-2] IndexPageTest - User is going to Click on Sign In
+[INFO ] 2024-07-29 10:35:25.355 [TestNG-tests-2] IndexPageTest - Enter username and password
+[INFO ] 2024-07-29 10:35:27.246 [TestNG-tests-2] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:35:27.443 [TestNG-tests-1] IndexPageTest - Verifying whether user is able to login
+[INFO ] 2024-07-29 10:35:27.444 [TestNG-tests-1] IndexPageTest - login successful
+[INFO ] 2024-07-29 10:35:27.444 [TestNG-tests-1] IndexPageTest - Test Case loginTest Ended
